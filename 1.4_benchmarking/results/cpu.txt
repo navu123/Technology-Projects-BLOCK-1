@@ -1,0 +1,2 @@
+python3 speed.py
+Execution time: 3.9154955670001073 seconds

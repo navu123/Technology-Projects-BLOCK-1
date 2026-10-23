@@ -1,0 +1,6 @@
+memory.py
+Memory allocation time: 1.3164315579999766
+
+free -h
+               total        used        free      shared  buff/cache   available
+Mem:           905Mi       286Mi       246Mi        33Mi       461Mi       618Mi
